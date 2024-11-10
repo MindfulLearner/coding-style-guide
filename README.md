@@ -15,8 +15,11 @@ A mio avviso prima di procedere alla parte struttura del progetto, ne parliamo m
 
 # Come procederemo: 
 Dato che lavoreremo in Async, potremmo scegliere in gruppo quanti meeting fare. Io propongo di fare 2/3 meeting settimanali, da 1 ora circa ciascuno.
-La scelta di fare pochi meeting e' dovuto al fatto che ci divideremo i compiti in file separati e quindi quando pusheremo tramite merge o pull requeste non ci saranno tanti problemi.
+La scelta di fare pochi meeting e' dovuto al fatto che ci divideremo i compiti in file separati ma stessa repository e quindi quando pusheremo e mergeremo.
+Ogni volta che andremo ad aggiungere roba nuova faremo feat/nomediquellochefaremo, ovviamente indifferente chi fa cosa quindi non c'e' bisogno di scrivere i vostri i nomi, se ci sara' bisogno di review o particolari osservazioni verra' chiesto sul gruppo
 
+---
+## DA NON LEGGERE QUESTA PARTE
 Ognuno che avra un ruolo aprira un branch esempio "feat/nomediquellochefarete". Dopo aver terminato il proprio compito, aprire un pull request solo quando avete terminato il compito "molto semplice" e poi fate il merge.
 Esempio: 
   1. "josh" apre un branch "feat/FrontEndHeader"
@@ -24,6 +27,8 @@ Esempio:
   3. Se non ci sono problemi allora josh chiude il PR e poi fa il merge e' un bottone unico lo vedrete li subito.
 - Perche' fare questo anziche pushare e mergiare e basta?
     Perche' cosi' facendo noi possiamo controllare il codice di ogni membro del gruppo e possiamo fare subito commenti sul codice e quindi evitare errori e problemi che potrebbero essere fatti.
+---
+
 
 # Come procederanno gli aiuti? IMPORTANTISSIMO NON HO VOGLIA DI SPIEGARE TRAMITE DISCORD O CHIAMATA COSA FARE.
 Quando un membro del gruppo chiede una mano aprira una Issue in cui spieghera' il problema e cosa ha fatto finora.
