@@ -3,6 +3,12 @@
 Di seguito a diverse segnalazioni fatte durante la classe, ho deciso di creare questa documentazione per avere una linea guida sul codice che scriviamo.
 A mio avviso prima di procedere alla parte struttura del progetto, ne parliamo meglio posso farlo tutto io il setup iniziale per tutti.
 
+## lettura veloce per come fare un commit per bene:
+https://www.conventionalcommits.org/en/v1.0.0/
+TD LR - > per chi non sapesse cosa significa "TROPPO LUNGO DA LEGGERE" lo usero spesso per riassumere :
+I Commits Convenzionali sono una convenzione leggera per i messaggi di commit, che facilita la creazione di una cronologia chiara.
+"leggere sezione commit in questofile"
+
 # Q&A: 
 - Perche' usiamo questa documentazione?
     Perche' cosi' facendo il codice e' piu' leggibile e facile da mantenere. Questo servira' per chi dovra' aiutare o modificare un codice che non e' stato scritto da lui. Anziche' perdere troppo tempo a capire il codice, sapra' guardare e capire il codice in pochi secondi.
@@ -170,6 +176,13 @@ che se io metto sopra il mouse ovunque io uso esempioFunzione() leggero "questo 
 - **Commit**: come detto gia sopra commitare spesso solo si ha scritto il necessario. non pushate una riga di codice
 - **Branching**: come detto sopra usate feat/nomediquellochefarete.. mentre io per correggere codice userei un altro branch tipo fix/nomedelbugenomedelvostro
 - **Gestione degli Errori**: Documentazione + chiedere aiuto, prima ovviamente provateci da soli guardate anche i video o slide vecchi
+## Glossario commit
+- fix: per correggere un bug.
+- feat: per aggiungere una nuova funzionalità lo usero per creare componenti, sezioni e tutto.
+- BREAKING CHANGE: indica un cambiamento rilevante nell'API.
+- Sono ammessi altri tipi come build:, chore:, docs:, style:, refactor:, perf:, test: ecc. // se interessati a usarlo cercare su internet!
+## vantaggi commit: 
+- Comunicazione chiara delle modifiche.
 
 ## Strumenti e Configurazioni
 - **Editor/IDE**: Utilizziamo tutti vscode
