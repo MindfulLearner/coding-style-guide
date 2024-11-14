@@ -5,6 +5,8 @@ A mio avviso prima di procedere alla parte struttura del progetto, ne parliamo m
 
 ## lettura veloce per come fare un commit per bene:
 https://www.conventionalcommits.org/en/v1.0.0/
+or 
+better https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
 TD LR - > per chi non sapesse cosa significa "TROPPO LUNGO DA LEGGERE" lo usero spesso per riassumere :
 I Commits Convenzionali sono una convenzione leggera per i messaggi di commit, che facilita la creazione di una cronologia chiara.
 "leggere sezione commit in questofile"
