@@ -1,7 +1,7 @@
 # Documentazione by Joshua "Su github @MindfulLearner"
 
 Di seguito a diverse segnalazioni fatte durante la classe, ho deciso di creare questa documentazione per avere una linea guida sul codice che scriviamo.
-A mio avviso prima di procedere alla parte struttura del progetto, ne parliamo meglio posso farlo tutto io il setup iniziale per tutti.
+A mio avviso prima di procedere alla parte struttura del progetto, ne parliamo meglio.
 
 ## lettura veloce per come fare un commit per bene:
 https://www.conventionalcommits.org/en/v1.0.0/
