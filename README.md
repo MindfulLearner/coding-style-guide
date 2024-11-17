@@ -48,7 +48,7 @@ Quello che faranno quelli che vorranno correggerlo, vedranno la Issue, commenter
 Ora detto questo, passiamo al succo documentazione.
 
 ---
-# Guida di Stile del Codice by Joshua "Su github @MinfulLearner"
+# Guida di Stile del Codice by Joshua 
 
 Importante: PUSHATE MOLTO PIU' FREQUENTEMENTE. Ovviamente se cambaite una riga e basta non serve. Ma non voglio vedere 1 commit ogni 2000 righe scritte. Questo e' importantissimo cosi se devo leggere i commit prima dell'errore non ci metto piu' di 10 secondi a capire cosa e' stato fatto o il problema.
 
